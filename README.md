@@ -36,7 +36,6 @@ Not gonna write for all the challenges we solved cause I'm lazy. Programming cha
   * [Crypto Hotdogs](Crypto/hotdogs)
   * [Time to crypt](Crypto/TimeToCrypt)
 * Web
-  * [Cookie Agent](web/CookieAgent)
   * [Fish Shoup](web/FishShoup)
   * [Cookie Monster](web/CookieMonster)
 
