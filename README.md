@@ -40,25 +40,25 @@ Not gonna write for all the challenges we solved cause I'm lazy. Programming cha
   * [Fish Shoup](web/FishShoup)
   * [Cookie Monster](web/CookieMonster)
 
-##Final Scoreboard (Competing Teams)
+## Final Scoreboard (Competing Teams)
 
 >Position  Points   Team
 >----------------------------------
->​    1      1885    fs0ciety
->​    2      1720    BASIC
->​    3      1665    Team ScapeGoat
->​    4      1595    Anti-matter
->​    5      1450    Pentest
->​    6      1350    Fatm00se
->​    7       970    PogChamp
->​    8       905    Threadripper
->​    9       590    hackerboiis
->   10       560    Pre-eminence
->   11       540    Placeholder
->   12       175    AFK
->   13       155    Wil did IoTs
->   14       140    SYNners
->   15       100    XiaoNerd
->   16        75    Unique
+>    1      1885    fs0ciety  
+>    2      1720    BASIC  
+>    3      1665    Team ScapeGoat  
+>    4      1595    Anti-matter  
+>    5      1450    Pentest  
+>    6      1350    Fatm00se  
+>    7       970    PogChamp  
+>    8       905    Threadripper  
+>    9       590    hackerboiis  
+>   10       560    Pre-eminence  
+>   11       540    Placeholder  
+>   12       175    AFK  
+>   13       155    Wil did IoTs  
+>   14       140    SYNners  
+>   15       100    XiaoNerd  
+>   16        75    Unique  
 
 Really surprised we got 1st place among competing teams.
