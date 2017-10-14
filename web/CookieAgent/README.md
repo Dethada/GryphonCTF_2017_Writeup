@@ -1,4 +1,0 @@
-# Cookie Agent
-
-## Solution
-
